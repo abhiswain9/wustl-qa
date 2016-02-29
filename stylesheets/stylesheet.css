@@ -22,6 +22,12 @@ body {
   background-color: #eee;
 }
 
+img.centerit {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 section {
     margin: 3em 0;
 }
